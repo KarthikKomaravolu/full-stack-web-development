@@ -1,0 +1,12 @@
+{
+  "categories": ["Food", "Travel", "Shopping", "Bills", "Health", "Other"],
+  "highAmount": 5000,
+  "expenses": [
+    { "id": 1, "title": "Groceries",        "amount": 1850, "category": "Food",     "date": "2026-10-02" },
+    { "id": 2, "title": "Bus pass",         "amount": 600,  "category": "Travel",   "date": "2026-10-03" },
+    { "id": 3, "title": "Headphones",       "amount": 5499, "category": "Shopping", "date": "2026-10-05" },
+    { "id": 4, "title": "Electricity bill", "amount": 1320, "category": "Bills",    "date": "2026-10-07" },
+    { "id": 5, "title": "Pharmacy",         "amount": 450,  "category": "Health",   "date": "2026-10-09" },
+    { "id": 6, "title": "Dinner out",       "amount": 900,  "category": "Food",     "date": "2026-10-11" }
+  ]
+}
